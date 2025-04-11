@@ -7,7 +7,6 @@ features:
 nav:
   - Обзор: index.md
   - Начало работы:
-    - getting_started/getting_started.md
     - Авторизация и аутентификация: getting_started/authorization.md
     - Примеры работы с API: getting_started/example.md
   - Справочник API: dist/index.html
