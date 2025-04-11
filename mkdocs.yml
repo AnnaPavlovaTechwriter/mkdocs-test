@@ -5,9 +5,9 @@ theme: material
 nav:
   - Обзор: index.md
   - Начало работы:
-    - section/getting_started.md
-    - Авторизация и аутентификация: section/authorization.md
-    - Примеры работы с API: section/example.md
+    - getting_started/getting_started.md
+    - Авторизация и аутентификация: getting_started/authorization.md
+    - Примеры работы с API: getting_started/example.md
   - Справочник API: dist/index.html
   - Глоссарий: glossary.md
   - Релизы: releases.md
